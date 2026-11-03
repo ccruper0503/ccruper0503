@@ -64,9 +64,6 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** afincado en 📍 M
   <a href="https://github.com/ccruper0503">
     <img src="https://img.shields.io/badge/Perfil_Principal-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/ccruper0503">
-    <img src="https://img.shields.io/badge/Perfil_Estudiante-100000?style=flat-square&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:christiancartama@gmail.com">
     <img src="https://img.shields.io/badge/Email_Profesional-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
