@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy David 💻</h1>
+<h1 align="center">¡Hola! Soy Christian 💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Desarrollador+Web+en+formaci%C3%B3n;Transformando+ideas+en+c%C3%B3digo;Explorando+el+potencial+de+la+IA;Estudiante+de+DAW" alt="Typing SVG" />
@@ -61,13 +61,13 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** afincado en 📍 M
 ### 📬 Contacto y Redes
 
 <p align="left">
-  <a href="https://github.com/Smaricraft">
+  <a href="https://github.com/ccruper0503">
     <img src="https://img.shields.io/badge/Perfil_Principal-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/dgonmor428">
+  <a href="https://github.com/ccruper0503">
     <img src="https://img.shields.io/badge/Perfil_Estudiante-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:davidgonzwork@gmail.com">
+  <a href="mailto:christiancartama@gmail.com">
     <img src="https://img.shields.io/badge/Email_Profesional-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
